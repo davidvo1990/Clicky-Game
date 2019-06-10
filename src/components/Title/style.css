@@ -1,0 +1,32 @@
+.title {
+  width: 100%;
+  text-align: center;
+  /* font-size: 3rem; */
+  /* text-decoration: underline; */
+  /* color: #2A77AE; */
+  margin-bottom: 50px;
+  
+}
+.instructions{
+  background-image: url("./img/sunrise.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+  height: 500px;
+  font-size: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.mss{
+  font-size: 30px;
+}
+.navbar{
+position:fixed;
+min-height: 70px;
+background:purple;
+width:100%;
+z-index: 99;
+top:0;
+right:0;
+}
