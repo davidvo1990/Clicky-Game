@@ -6,7 +6,7 @@ This is a memory game with React. You need to break up your application's UI int
 
 ### Instructions
 
-# Click link to [App](https://intense-inlet-84247.herokuapp.com/). 
+# Click link to [App](https://davidvo1990.github.io/Clicky-Game/). 
 
 1. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
 
