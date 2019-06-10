@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/davidvo1990/Clicky-Game/static/css/main.d9514a99.chunk.css",
-    "main.js": "/davidvo1990/Clicky-Game/static/js/main.53b2dbd9.chunk.js",
-    "main.js.map": "/davidvo1990/Clicky-Game/static/js/main.53b2dbd9.chunk.js.map",
-    "runtime~main.js": "/davidvo1990/Clicky-Game/static/js/runtime~main.d5341682.js",
-    "runtime~main.js.map": "/davidvo1990/Clicky-Game/static/js/runtime~main.d5341682.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/davidvo1990/Clicky-Game/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/davidvo1990/Clicky-Game/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/davidvo1990/Clicky-Game/index.html",
-    "precache-manifest.accc9808e7f3b5df31eaf24dcc2d6bde.js": "/davidvo1990/Clicky-Game/precache-manifest.accc9808e7f3b5df31eaf24dcc2d6bde.js",
-    "service-worker.js": "/davidvo1990/Clicky-Game/service-worker.js",
-    "static/css/main.d9514a99.chunk.css.map": "/davidvo1990/Clicky-Game/static/css/main.d9514a99.chunk.css.map",
-    "static/media/style.css": "/davidvo1990/Clicky-Game/static/media/sunrise.6c4d1405.jpg"
+    "main.css": "/Clicky-Game/static/css/main.619e3a35.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.53b2dbd9.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.53b2dbd9.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
+    "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/Clicky-Game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/Clicky-Game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.6db3846d6fb123a4fe881ebeb265f2f6.js": "/Clicky-Game/precache-manifest.6db3846d6fb123a4fe881ebeb265f2f6.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.619e3a35.chunk.css.map": "/Clicky-Game/static/css/main.619e3a35.chunk.css.map",
+    "static/media/style.css": "/Clicky-Game/static/media/sunrise.6c4d1405.jpg"
   }
 }
